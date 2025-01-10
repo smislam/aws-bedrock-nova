@@ -19,7 +19,9 @@ export const handler: Handler = async (event, context) => {
                 modelInput: {
                     taskType: 'TEXT_VIDEO',
                     textToVideoParams: {
-                        text: `Camera zooming in. ${scene}. Camera zooms out.`
+                        text: `${scene}. 
+                        Gentle movements of the leaves, natural lighting, condensation and droplets. 
+                        Cinematic, 4k, photorealistic, shallow depth of field, highest quality, dolly in.`
                     },
                     videoGenerationConfig: {
                         durationSeconds: 6,
