@@ -18,7 +18,7 @@ This application is developed using AWS CDK in TypeScript.
 * Download the MP4 file and play the video.
 
 ### Resulting Model Response Video
-https://github.com/user-attachments/assets/da6c2fef-9594-4a8b-a8f7-661bd4c3c2d9
+https://github.com/user-attachments/assets/5953b57a-1ae3-4180-8b8b-0e8357b43628
 * If that video link doesn't play, download the original Amazon Nova video file in [MP4](output.mp4) format under files.
 
 ## References
